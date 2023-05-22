@@ -21,7 +21,7 @@
   "navigation": [
     {
       "group": "Gooroomee AI",
-      "pages": ["introduction", "feature"]
+      "pages": ["introduction", "features"]
     },
     {
       "group": "API Documentation",
